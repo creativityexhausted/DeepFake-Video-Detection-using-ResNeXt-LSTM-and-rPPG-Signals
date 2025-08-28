@@ -13,7 +13,6 @@ A deep learning framework for detecting deepfake videos by combining advanced sp
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Model Overview](#model-overview)
 - [Data Preparation](#data-preparation)
@@ -21,23 +20,7 @@ A deep learning framework for detecting deepfake videos by combining advanced sp
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
-## Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/deepfake-resnext-lstm-rppg.git
-   cd deepfake-resnext-lstm-rppg
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Download Pre-trained Weights (Optional)**
-   - Links to pre-trained models and rPPG feature extractors can be found in the [Models](models/) directory.
 
 ## Usage
 
